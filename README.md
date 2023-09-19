@@ -7,7 +7,7 @@
 
 机箱	：闪鳞S300-U3 8升ITX 带前置TYPE-C
 
-主板	：Abit B760ITX D4
+主板	：升技 Abit B760ITX D4
 
 CPU	：i5-13400 10核心16线程
 
