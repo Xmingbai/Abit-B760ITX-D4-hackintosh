@@ -1,6 +1,6 @@
 # Abit-B760ITX-D4-hackintosh
 ====================================================================================
-![](https://github.com/Xmingbai/Abit-B760ITX-D4-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png))
+![](https://github.com/Xmingbai/Abit-B760ITX-D4-hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
 
 ====================================================================================
 # 电脑配置
