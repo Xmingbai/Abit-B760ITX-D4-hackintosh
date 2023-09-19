@@ -45,3 +45,7 @@ OC版本095正式版
 # 相关截图
 
 ![](https://github.com/Xmingbai/Abit-B760ITX-D4-hackintosh/blob/main/%E6%98%BE%E5%8D%A1.png)
+![](https://github.com/Xmingbai/Abit-B760ITX-D4-hackintosh/blob/main/2.5G.png)
+![](https://github.com/Xmingbai/Abit-B760ITX-D4-hackintosh/blob/main/声卡.png)
+![](https://github.com/Xmingbai/Abit-B760ITX-D4-hackintosh/blob/main/WIFI.png)
+![](https://github.com/Xmingbai/Abit-B760ITX-D4-hackintosh/blob/main/BT.png)
