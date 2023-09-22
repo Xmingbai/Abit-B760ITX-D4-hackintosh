@@ -47,7 +47,7 @@ intel或BCM 无线网卡都能正常使用
 
 OC095正式版
 
-支持MacOS 10.15---14
+支持MacOS catalina、big sur、Monterey、Ventura、Sonoma   10.15---14  
 
 无线网卡支持博通和intel
 
